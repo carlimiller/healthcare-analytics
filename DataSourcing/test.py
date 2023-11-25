@@ -1,1 +1,0 @@
-#This is a test script for starters as I set up my VS Code environment.
